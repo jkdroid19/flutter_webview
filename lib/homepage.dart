@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
   var _scaffoldKey = GlobalKey<ScaffoldState>();
   final WebExampleThree inAppBrowser = WebExampleThree();
   final WebExampleFour inAppChrome = WebExampleFour();
-  String _url = "https://github.com/techwithsam";
+  String _url = "https://charming-cranachan-3e2535.netlify.app/";
   int checkInt = 0;
 
   var options = InAppBrowserClassOptions(
